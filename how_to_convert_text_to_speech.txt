@@ -1,0 +1,8 @@
+the pip extension
+https://pypi.org/project/pyttsx3/
+
+code txt to voice
+https://www.youtube.com/watch?v=8BwKZKlRljg 
+
+error handling 
+https://stackoverflow.com/questions/65274843/oserror-libespeak-so-1-cannot-open-shared-object-file-no-such-file-or-directo

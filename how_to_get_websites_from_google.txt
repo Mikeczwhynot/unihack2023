@@ -1,0 +1,12 @@
+
+get a list of websites
+https://www.geeksforgeeks.org/performing-google-search-using-python-code/
+
+open an website
+https://stackoverflow.com/questions/4302027/how-to-open-a-url-in-python
+
+to extract the text from an website
+https://stackoverflow.com/questions/328356/extracting-text-from-html-file-using-python
+
+to get the html source code
+https://stackoverflow.com/questions/3969726/attributeerror-module-object-has-no-attribute-urlopen
